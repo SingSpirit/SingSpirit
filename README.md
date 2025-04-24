@@ -1,4 +1,4 @@
-This project open source the data set used in the SingSense-2022 paper.
+This project open source the data set used in the SingSpirit paper.
 
 Two datasets were used in Experiment. 
 
@@ -19,7 +19,7 @@ All data can be downloaded for free.
 
 Now the datasets are being processed to remove private audiable humans voice signals collected. You can access them by the link:
 
-https://drive.google.com/drive/folders/1S3HFHYMhtA8z4f4w-tQmjTtn-3AlUh6d?usp=sharing
+https://drive.google.com/drive/folders/1JVgoTPqcm16tr6EMOcpn1W0eKlnP47zZ?usp=drive_link
 
 For the space limitation by Google Drive, only parts of data (in total 15 GB) updated in the link. 
 To access full data, you can pull a request here by the "Issues" button.
